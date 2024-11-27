@@ -1,0 +1,6 @@
+.counter-wrapper{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    margin: auto auto 10px;
+}
